@@ -1,0 +1,9 @@
+$ git clone https://github.com/Solar-Tweaks/LunarSocket # Clone repo
+$ cd LunarSocket # Go to LunarSocket folder
+$ npm install # Install dependencies
+$ npm run build # Build the project
+
+# For the dashboard
+$ cd dashboard # Go to the dashboard folder
+$ npm install # Install dependencies
+$ npm run build
